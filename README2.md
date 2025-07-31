@@ -20,7 +20,7 @@ Project Contents
   
  Project Submission
  
-    This GitHub repository link has been submitted on the [IBM Project Portal] (https://training.allsoftsolutions.in/projects/5) as part of        the IBM AutoAI training project.
+    This GitHub repository link has been submitted on the [IBM Project Portal] (https://training.allsoftsolutions.in/projects/5) as part of       the IBM AutoAI training project.
 
  Author  
 
